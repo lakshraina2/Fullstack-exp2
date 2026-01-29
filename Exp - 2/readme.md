@@ -18,6 +18,12 @@ Dynamic card grid system with responsive design
 
 ![Experiment 2.2](./2.2/image.png)
 
+### 2.3 - Material UI 
+
+Material UI Login Page
+
+![Experiment 2.3](<img width="574" height="473" alt="image" src="https://github.com/user-attachments/assets/268effea-e627-4c74-9e94-97c12dd7c4b0" />)
+
 ### 2.4 - Responsive Navigation Bar Using Component Library
 
 Collapsible navigation with dropdown menus
